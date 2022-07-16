@@ -20,7 +20,6 @@ namespace HomeWork03
                     case "3": PrimeNumberCheck(); break;
                     case "Exit": break;
                 }
-                
             }
             return;
 
