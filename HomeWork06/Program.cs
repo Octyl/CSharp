@@ -12,8 +12,6 @@ namespace HomeWork06
     {
         static void Main(string[] args)
         {
-            string filePath = "D:/someting/Skillbox/CSharp/HomeWork06/Employee.txt";
-
             while(true)
             {
                 Console.WriteLine("1: Список сотрудников\n2: Записать нового сотрудника\n3: Выйти");
